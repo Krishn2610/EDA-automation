@@ -1,8 +1,6 @@
 # EDA-automation
 
-Here's a template for your README.md file for the EDA Automation App:
 
-EDA Automation App
 This project is a web-based application that simplifies exploratory data analysis (EDA) and automates various data preprocessing steps. Built using Django, it allows users to upload datasets, select the preprocessing steps, and get results with minimal manual effort. This tool helps users who work with data streamline their workflows and focus on analysis rather than repetitive preprocessing tasks.
 
 Table of Contents
